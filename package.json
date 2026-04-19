@@ -1,0 +1,17 @@
+{
+  "name": "@javagt/porkbun-client",
+  "version": "1.0.0",
+  "description": "Dynamic DNS client for Porkbun",
+  "main": "PorkbunClient.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node example-usage.mjs"
+  },
+  "keywords": [
+    "porkbun",
+    "ddns",
+    "dns"
+  ],
+  "author": "",
+  "license": "ISC"
+}
